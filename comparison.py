@@ -1,0 +1,16 @@
+#Operasi Perbandingan : 
+# > (bigger than)
+# < (smaller than)
+# >= (equal to or bigger than)
+# <= (equal to or smaller than)
+# != (unequal to)
+# == (equal to)
+
+x = int ( input( "x = "))
+y = int ( input( "y = "))
+print( "x > y = ", x > y)
+print( "x < y = ", x < y)
+print( "x >= y = ", x >= y)
+print( "x <= y = ", x <= y)
+print( "x != y = ", x != y)
+print( "x == y = ", x == y)
